@@ -1,4 +1,3 @@
-
 @e2e
   Feature: TC02 DataBase Room Validation
     Scenario: Testing the room via DB
